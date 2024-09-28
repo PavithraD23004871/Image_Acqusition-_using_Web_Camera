@@ -24,7 +24,6 @@ Use cv2.imshow to show the video
 ### Step 5:
 End the program and close the output video window by pressing 'q'.
 ## Program:
-``` Python
 ### Developed By:Pavithra D
 ### Register No:212223230146
 
